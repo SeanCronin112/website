@@ -1,16 +1,35 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.073c9b0a.css",
-    "main.js": "/website/static/js/main.48a3aeb2.js",
+    "main.css": "/website/static/css/main.d0867ece.css",
+    "main.js": "/website/static/js/main.edaff401.js",
     "static/js/787.76826462.chunk.js": "/website/static/js/787.76826462.chunk.js",
-    "static/media/logo.svg": "/website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/uncharted_collection.png": "/website/static/media/uncharted_collection.abb437e5b259aec229db.png",
+    "static/media/loyle_carner-not_waving_but_drowning.jpeg": "/website/static/media/loyle_carner-not_waving_but_drowning.1aa44fcf3bc27366da54.jpeg",
+    "static/media/the_killers-Hot_fuss.jpeg": "/website/static/media/the_killers-Hot_fuss.b75a4b162b49de5e42b2.jpeg",
+    "static/media/harry_styles-fine_line.jpeg": "/website/static/media/harry_styles-fine_line.2551ab7609f07fdbe680.jpeg",
+    "static/media/uncharted_4.jpg": "/website/static/media/uncharted_4.218a67563d80a62ecc60.jpg",
+    "static/media/a_tribe_called_quest-midnight_marauders.jpeg": "/website/static/media/a_tribe_called_quest-midnight_marauders.23ff9f7a5e9673ae588a.jpeg",
+    "static/media/anderson_paak-malibu.jpeg": "/website/static/media/anderson_paak-malibu.d61967b082db49b69612.jpeg",
+    "static/media/nas-nasir.jpeg": "/website/static/media/nas-nasir.b7900a315d1bab79a86c.jpeg",
+    "static/media/frank_sinatra-come_fly_with_me.jpeg": "/website/static/media/frank_sinatra-come_fly_with_me.918f05a609ea77bab247.jpeg",
+    "static/media/dermot_kennedy-without_fear.jpeg": "/website/static/media/dermot_kennedy-without_fear.636c15c56c23c0170fd5.jpeg",
+    "static/media/a_tribe_called_quest-peoples_instinctive_travels_and_the_path_of_rhythm.jpeg": "/website/static/media/a_tribe_called_quest-peoples_instinctive_travels_and_the_path_of_rhythm.1739871b47f90f3b646a.jpeg",
+    "static/media/ratchet_gladiator.jpeg": "/website/static/media/ratchet_gladiator.9292a925da7ef6f7ad9f.jpeg",
+    "static/media/jon_bellion-the_definition.jpeg": "/website/static/media/jon_bellion-the_definition.d8890aa84c53cabee1a5.jpeg",
+    "static/media/a_tribe_called_quest-the_low_end_theory.jpg": "/website/static/media/a_tribe_called_quest-the_low_end_theory.f18a7d238dbc94ddecaf.jpg",
+    "static/media/guns_n_roses-appetite_for_destruction.jpeg": "/website/static/media/guns_n_roses-appetite_for_destruction.5c6cd16f44c2f487054f.jpeg",
+    "static/media/harry_potter_and_the_philosophers_stone.jpeg": "/website/static/media/harry_potter_and_the_philosophers_stone.a8b9a0d5ad0f90407394.jpeg",
+    "static/media/a_tribe_called_quest-we_got_it_from_here_thank_you_for_your_service.jpeg": "/website/static/media/a_tribe_called_quest-we_got_it_from_here_thank_you_for_your_service.9f9736cc878544713031.jpeg",
+    "static/media/the_killers-sams_town.jpeg": "/website/static/media/the_killers-sams_town.86755c42655ed55cc219.jpeg",
+    "static/media/nas-i_am.jpeg": "/website/static/media/nas-i_am.e1489cd1290417084e2f.jpeg",
+    "static/media/PitchAndPutt2.jpeg": "/website/static/media/PitchAndPutt2.360d5fe84729e2d7df6f.jpeg",
     "index.html": "/website/index.html",
-    "main.073c9b0a.css.map": "/website/static/css/main.073c9b0a.css.map",
-    "main.48a3aeb2.js.map": "/website/static/js/main.48a3aeb2.js.map",
+    "main.d0867ece.css.map": "/website/static/css/main.d0867ece.css.map",
+    "main.edaff401.js.map": "/website/static/js/main.edaff401.js.map",
     "787.76826462.chunk.js.map": "/website/static/js/787.76826462.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.48a3aeb2.js"
+    "static/css/main.d0867ece.css",
+    "static/js/main.edaff401.js"
   ]
 }
